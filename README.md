@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java,C/C++**
 
-- 📫 How to reach me **nilankajayalath10@gmail.com**
+- 📫 How to reach me **nilankajayalath12@gmail.com**
 
 - ⚡ Fun fact **Call me as Nilanka**
 
