@@ -128,16 +128,3 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saitej98&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saitej98" alt="Saiteja Golivi" /></p>
-<br/>
- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitej98&show_icons=true&locale=en&layout=compact" alt="Saiteja Golivi" /></p>
- <br/>
-
-<br/>
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitej98&layout=compact&theme=algolia" alt="saitej98" /></a> </p>
-
