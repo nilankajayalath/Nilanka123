@@ -85,9 +85,10 @@ Here are some ideas to get you started:
   <a href="https://www.w3schools.com/nodejs/" target="_blank"> 
    <img alt="Node Js" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=node&logoColor=white">
   </a>  &emsp; 
-	<a href="https://www.mongodb.com/" target="_blank"> 
+  <a href="https://www.mongodb.com/" target="_blank"> 
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
-		  <a href="http://expressjs.com/" target="_blank"> 
+	</a>  &emsp;   
+       <a href="http://php.com/" target="_blank"> 
    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23E34F26.svg?style=plastic&logo=php&logoColor=white">
   </a>   
 	&emsp; 
@@ -125,7 +126,7 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="mailto:nilankajayalath12@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="linkedin.com/in/nilanka-jayalath" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/ich_bin_saitej/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/nilanka____" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	
 </p>
 <br/>
