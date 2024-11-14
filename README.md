@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilanka Jayalath Aluthge</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Web developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nilanka123&label=Profile%20views&color=0e75b6&style=flat" alt="nilanka123" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Test**
 
-- 🌱 I’m currently learning **ReactJS,C/C++**
+- 🌱 I’m currently learning **ReactJS,NodeJS,ExpressJS**
 
 - 💬 Ask me about **Java,C/C++**
 
