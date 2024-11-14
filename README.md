@@ -30,12 +30,13 @@ Here are some ideas to get you started:
 - I'm a passionate Software Engineer with expertise across multiple languages , including HTML,CSS,PHP JavaScript, Java, and C. I specialize in building responsive web designs and development.. [Click here](https://github.com/nilankajayalath)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- 💻 I have a strong foundation in SQL and MongoDB databases, which enables me to create efficient, scalable applications. continuously expanding my knowledge to integrate intelligent solutions into my projects.
 
+-  I'm a big believer in open-source development and enjoy contributing to the community, sharing what I know, and learning from others. Let's build something amazing together! 🚀
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
  
-- Aside from coding, I enjoy hiking and playing Badminton.  
+- 🌟 Let's connect and collaborate on exciting projects together!  
   <br/>
   <br/>
   <br/>
