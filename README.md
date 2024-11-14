@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
  
 - 🌟 Let's connect and collaborate on exciting projects together!
-       - 📫 How to reach me **nilankajayalath12@gmail.com**
+
+
+     - 📫 How to reach me **nilankajayalath12@gmail.com**
   <br/>
   <br/>
   <br/>
@@ -46,9 +48,9 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<!-- <p align="center"> 
+<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=GoAlive13&label=Profile%20views&color=0e75b6&style=plastic" alt="Saiteja Golivi" /> 
-</p> -->
+ 
 
 <!-- ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoAlive13&theme=algolia" alt="Saiteja Golivi" /></p> -->
