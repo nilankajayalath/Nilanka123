@@ -42,14 +42,13 @@ Here are some ideas to get you started:
      - 📫 How to reach me **nilankajayalath12@gmail.com**
   <br/>
   <br/>
-  <br/>
 
-<br>
 
 <hr/>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=GoAlive13&label=Profile%20views&color=0e75b6&style=plastic" alt="Saiteja Golivi" /> 
+	<img src="https://komarev.com/ghpvc/?username=GoAlive13&label=Profile%20views&color=0e75b6&style=plastic" alt="nilankajayalath" />
+</p>
  
 
 <!-- ## 🔥 Streak Stats
