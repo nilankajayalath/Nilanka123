@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
 
-- I’m currently learning🌱 MERN stack and applying them on a few basic applications you can check them here. [Click here](https://github.com/nilankajayalath)  
+- I'm a passionate Software Engineer with expertise across multiple languages , including HTML,CSS,PHP JavaScript, Java, and C. I specialize in building responsive web designs and development.. [Click here](https://github.com/nilankajayalath)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies
