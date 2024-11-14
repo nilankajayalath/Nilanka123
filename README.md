@@ -77,6 +77,10 @@ Here are some ideas to get you started:
 
 ### 👉 Backend Development
 <p align="center" background-color="yellow"> 
+	 &emsp; 
+  <a href="http://mysql.com/" target="_blank"> 
+   <img alt="MY SQL" src="https://img.shields.io/badge/MYSQL%20-%23E34F26.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>  
   &emsp; 
   <a href="http://expressjs.com/" target="_blank"> 
    <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=express&logoColor=white">
