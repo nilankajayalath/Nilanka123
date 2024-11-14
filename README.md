@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
  
-- 🌟 Let's connect and collaborate on exciting projects together!  
+- 🌟 Let's connect and collaborate on exciting projects together!
+       - 📫 How to reach me **nilankajayalath12@gmail.com**
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
+
 <br>
 
 <hr/>
@@ -83,13 +83,7 @@ Here are some ideas to get you started:
    <img alt="MY SQL" src="https://img.shields.io/badge/MYSQL%20-%23E34F26.svg?style=plastic&logo=mysql&logoColor=white">
   </a>  
   &emsp; 
-  <a href="http://expressjs.com/" target="_blank"> 
-   <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=express&logoColor=white">
-  </a>   
-	&emsp; 
-  <a href="https://www.w3schools.com/nodejs/" target="_blank"> 
-   <img alt="Node Js" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=node&logoColor=white">
-  </a>  &emsp; 
+
   <a href="https://www.mongodb.com/" target="_blank"> 
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
 	</a>  &emsp;   
