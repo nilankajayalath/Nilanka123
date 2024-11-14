@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Test**
 
-- 🌱 I’m currently learning **Java,C/C++**
+- 🌱 I’m currently learning **ReactJS,C/C++**
 
 - 💬 Ask me about **Java,C/C++**
 
