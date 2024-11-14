@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/nilankajayalath/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&center=true&width=400&height=50"></a>
 </p>
 <hr color="blue"/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fullstackdeveloper-kiran&label=Profile%20views&color=0e75b6&style=flat" alt="fullstackdeveloper-kiran" /> </p>
+<p align="center"> <img src="https://github.com/nilankajayalath/ghpvc/?username=webdeveloper-nilanka&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloper-nilanka" /> </p>
 
 ## About Me 
 <h5 align="center">I am a Web Developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
