@@ -81,12 +81,12 @@ Here are some ideas to get you started:
 <p align="center" background-color="yellow"> 
 	 &emsp; 
   <a href="http://nodejs.com/" target="_blank"> 
-   <img alt="Node JS" src="https://img.shields.io/badge/Node JS%20-%23E34F26.svg?style=plastic&logo=nodejs&logoColor=white">
+   <img alt="Node JS" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=nodejs&logoColor=white">
   </a>  
   &emsp; 
 
   <a href="https://www.expressjs.com/" target="_blank"> 
-   <img alt="Express JS" src="https://img.shields.io/badge/Express JS%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
+   <img alt="Express JS" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
 	</a>  &emsp;   
        <a href="http://php.com/" target="_blank"> 
    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23E34F26.svg?style=plastic&logo=php&logoColor=white">
