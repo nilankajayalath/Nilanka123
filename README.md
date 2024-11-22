@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <p align="center" background-color="yellow"> 
 	 &emsp; 
   <a href="http://nodejs.com/" target="_blank"> 
-   <img alt="Node JS" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=node js&logoColor=white">
+   <img alt="Node JS" src="https://img.shields.io/badge/Node JS%20-%23E34F26.svg?style=plastic&logo=nodejs&logoColor=white">
   </a>  
   &emsp; 
 
