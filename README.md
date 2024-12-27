@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
 
-- I'm a passionate Software Engineer with expertise across multiple languages , including HTML,CSS,PHP JavaScript, Java, and C. I specialize in building responsive web designs and development.. [Click here](https://github.com/nilankajayalath)  
+- I'm a passionate Software Engineer with expertise across multiple languages , including React.js,Express.js,Node.js,HTML,CSS,PHP JavaScript, Java, and C. I specialize in building responsive web designs and development.. [Click here](https://github.com/nilankajayalath)  
   
 
 - 💻 I have a strong foundation in SQL and MongoDB databases, which enables me to create efficient, scalable applications. continuously expanding my knowledge to integrate intelligent solutions into my projects.
